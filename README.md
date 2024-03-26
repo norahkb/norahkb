@@ -1,12 +1,12 @@
 
 
-<h1 align="center">Hi 👋, I'm Noarh Bin-Zaid</h1>
+<h1 align="center">Hi, I'm Noarh Bin-Zaid</h1>
 <h3 align="center">Passionate Developer Building Innovative Solutions</h3>
 
 
-- 💬 Ask me about **AdobeXD,Figma and any programing Adobe XD, Figma, and various programming languages**
+- Ask me about **Adobe XD, Figma, and various programming languages**
 
-- 📫 How to reach me **norahbinzaid@gmail.com**
+- How to reach me **norahbinzaid@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
