@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io](https://user-images.githubusercontent.com/90049773/203906897-67fdb7bf-792c-449e-b9e8-434c15d3cd6a.gif))
+
 
 <h1 align="center">Hi 👋, I'm Noarh Bin-Zaid</h1>
 <h3 align="center">Passionate Developer Building Innovative Solutions</h3>
