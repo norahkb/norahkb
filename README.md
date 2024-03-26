@@ -6,7 +6,6 @@
 
 - Ask me about **Adobe XD, Figma, and various programming languages**
 
-- How to reach me **norahbinzaid@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
